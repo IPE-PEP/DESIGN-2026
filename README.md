@@ -7,7 +7,7 @@ This repository provides the source literature foundation for the study:
 1. **Documentation of the systematic literature review (TXT)**
 2. **Literature data (BibTeX Files)**
 3. **Created dataset (JSON)**
-4. ** Prompts for both research questions**
+4. **Prompts for both research questions**
 
 ### Documentation of the systematic literature review (TXT)
 The literature review was conducted following PRISMA 2020 guidelines to identify publications addressing the application of machine learning algorithms to product development-related problems. The documentation includes:
