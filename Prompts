@@ -1,0 +1,18 @@
+Prompt RQ1: For product example high-voltage battery from an electric car.
+
+Problem description
+Many products contain components that remain functional after the end of their original use. One challenge is to find follow-up applications for such components instead of disposing of them. Such repurposing scenarios refer to the reuse of a component in a different technical system environment, whereby its physical function can be retained but is used in a new application context. 
+For a repurposing scenario to be technically feasible, certain necessary properties of the component and the target system must match. 
+Task:
+Review the given problem description and name 10 possible repurposing scenarios for a high-voltage battery from an electric car. The scenarios must be technically feasible and name a plausible target system.
+Use the following format Component | Target system
+
+Prompt RQ2: For product example high-voltage battery from an electric car in stationary home storage.
+
+Problem description
+Many products contain components that remain functional after the end of their original use. One challenge is to find follow-up applications for such components. Such repurposing scenarios refer to the reuse of a component in a different technical system environment, whereby its physical function can be retained but it is used in a new application context.
+For a repurposing scenario to be technically feasible, certain necessary properties of the component and the target system must match. 
+Task
+Review the given problem description and name all necessary technical properties that are relevant for the technical feasibility of the repurposing scenario of a high-voltage battery from an electric car in stationary home storage.
+Format
+Use the format: Property 
