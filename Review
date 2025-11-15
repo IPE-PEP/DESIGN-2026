@@ -1,0 +1,44 @@
+Dataset creation
+The dataset was established following a structured and transparent procedure based on the PRISMA 2020 methodology to ensure reproducibility and methodological rigour. The objective of the data collection was to identify a comprehensive set of documented repurposing examples to provide a representative and diverse dataset. 
+
+Definition of Search Strategy and Databases 
+An initial unsystematic literature review searching for repurposing examples was conducted to identify relevant publication types and keywords. The resulting sample was used to refine the search query and define inclusion and exclusion criteria for the systematic review. The systematic literature search was performed in the Scopus and Web of Science databases, selected for their broad and complementary coverage of engineering and design research (Singh et al., 2021).
+The search query was formulated using Boolean operators (AND, OR, NOT) in combination with carefully selected keywords, considering various spellings and inflected forms. The search focused on four main concept groups:
+
+Topic: Repurposing
+Keywords: "repurpos*", "converted to"
+
+Topic: Products and Components
+Keywords: "product*", "component*", "device*", "part*", "equipment"
+
+Topic: Examples and Applications
+Keywords: "example*", "application*", "use-case*", "concept*", "case study", "solution"
+
+Topic: Circular Economy and Lifecycle
+Keywords: "circular economy", "end-of-life", "multiple life cycle", "design methodology", "EoL phase", "lifecycle"
+
+Search string:
+(repurpos* OR "converted to") AND (product* OR component* OR device* OR part* OR equipment) AND (example* OR application* OR use-case* OR concept* OR "case study" OR solution) AND ("circular economy" OR "end-of-life" OR "multiple life cycle" OR "design methodology" OR "EoL phase" OR lifecycle) AND NOT (infrastructure* OR construction OR chemistry)
+
+Applied restrictions in Scopus:
+•	Topic search: Title, abstract, keywords
+•	Subject area: Engineering
+•	Document type: Limited to article, limited to conference paper
+•	Language: English, German
+•	Year: 2015 - 2025
+Applied restrictions in Web of Science:
+•	Topic search: Title, abstract, keywords, keywords+
+•	Subject area: Engineering
+•	Document type: Limited to article, limited to proceeding paper
+•	Language: English, German
+•	Year: 2015 - 2025
+
+Definition of Inclusion Criteria - To ensure relevance and quality, publications were filtered according to defined criteria.
+Inclusion criteria – The publication is included if…
+1.	…it belongs to conference papers or journal articles.
+2.	…it was published between 2015 and 2025.
+3.	…it is written in English or German.
+4.	…it belongs to the fields of engineering or environmental science.
+5.	…it contains documented examples of repurposing product components.
+6.	…it is accessible in full text.
+The chosen time frame (2015–2025) reflects the increasing relevance of the circular economy in recent years and the comparatively young scientific treatment of repurposing.
